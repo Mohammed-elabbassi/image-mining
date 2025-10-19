@@ -149,8 +149,7 @@ Taille totale = 6 + 32 + 4 + 7 = 49 caractéristiques
 
 Ce vecteur sera utilisé pour calculer la distance Euclidienne entre la requête et les images de la base.
 
-## Question 3
-Test de robustesse face aux transformations géométriques
+## Question 3 : Test de robustesse face aux transformations géométriques
 
 Transformations considérées : rotation, translation, mise à l’échelle, flip horizontal/vertical.
 
